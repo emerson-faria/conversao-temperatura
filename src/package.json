@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KubeDev/conversao-temperatura.git"
+    "url": "git+https://github.com/emerson-faria/conversao-temperatura.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KubeDev/conversao-temperatura/issues"
+    "url": "https://github.com/emerson-faria/conversao-temperatura/issues"
   },
-  "homepage": "https://github.com/KubeDev/conversao-temperatura#readme",
+  "homepage": "https://github.com/emerson-faria/conversao-temperatura.git#readme",
   "dependencies": {
     "chai": "^4.3.6",
     "ejs": "^3.1.8",
